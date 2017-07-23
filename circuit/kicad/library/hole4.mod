@@ -1,0 +1,22 @@
+PCBNEW-LibModule-V1  Čet 10 Lis 2013 10:07:15
+# encoding utf-8
+$INDEX
+hole4
+$EndINDEX
+$MODULE hole4
+Po 0 0 0 15 52565FFE 00000000 ~~
+Li hole4
+Sc 00000000
+AR 
+Op 0 0 0
+T0 0 -1000 600 600 0 120 N V 21 N "hole4"
+T1 0 1750 600 600 0 120 N V 21 N "4 mm"
+$PAD
+Sh "1" C 1969 1969 0 0 0
+Dr 1575 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE  hole4
+$EndLIBRARY

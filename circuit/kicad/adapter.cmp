@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sri 14 Sij 2015 14:18:10
+
+BeginCmp
+TimeStamp = /54557CC4;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54557CD3;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54557ECF;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54557EE8;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5455F63C;
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54550AD0;
+Reference = D1;
+ValeurCmp = LED_RED;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5484FED6;
+Reference = D2;
+ValeurCmp = DIODESCH;
+IdModule  = DO-35;
+EndCmp
+
+BeginCmp
+TimeStamp = /5250087C;
+Reference = J5;
+ValeurCmp = CONN_10X2;
+IdModule  = conn_strip_10x2_largepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /548EC9B5;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = mors_3p;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B50F90;
+Reference = K2;
+ValeurCmp = DS18b20;
+IdModule  = TO92-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /54884EC2;
+Reference = P1;
+ValeurCmp = CONN_5X2;
+IdModule  = conn_strip_5x2_largepads;
+EndCmp
+
+BeginCmp
+TimeStamp = /54883E70;
+Reference = P2;
+ValeurCmp = FLASH;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54550AC9;
+Reference = R1;
+ValeurCmp = 390;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /548842C2;
+Reference = R2;
+ValeurCmp = 47;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B6696B;
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B678CD;
+Reference = R4;
+ValeurCmp = 4.7k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B68079;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5484E80C;
+Reference = U1;
+ValeurCmp = ESP-03;
+IdModule  = ESP03BB;
+EndCmp
+
+BeginCmp
+TimeStamp = /545553F2;
+Reference = U2;
+ValeurCmp = MAX3232;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54897A65;
+Reference = U3;
+ValeurCmp = SWITCHER;
+IdModule  = SWITCHER_3V3_1A;
+EndCmp
+
+EndListe

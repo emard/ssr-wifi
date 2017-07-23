@@ -1,0 +1,27 @@
+PCBNEW-LibModule-V1  Čet 11 Pro 2014 15:44:21
+# encoding utf-8
+Units mm
+$INDEX
+hole3_5
+$EndINDEX
+$MODULE hole3_5
+Po 0 0 0 15 5489ADBD 00000000 ~~
+Li hole3_5
+Cd hole
+Kw DEV
+Sc 0
+AR 1pin
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N V 21 N "hole3_5"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "3.5mm"
+DC 0 0 3.175 0 0.381 21
+DC 0 0 0 -2.286 0.381 21
+$PAD
+Sh "1" C 4.064 4.064 0 0 0
+Dr 3.50012 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole3_5
+$EndLIBRARY

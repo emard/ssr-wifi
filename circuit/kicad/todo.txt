@@ -1,0 +1,5 @@
+[ ] test PIO2: will SSR pull up and force unwanted DFU mode
+[ ] test does PIO have enough power to drive SSR to conduction 
+    (connect a usb cable)
+[ ] test it with teensy 3.1
+[ ] test DFU mode and remote firmware
